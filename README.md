@@ -1,10 +1,4 @@
-# Digit-Classification
 
-# Digit Multiclass Classification
-
-This project demonstrates a multiclass classification model using the MNIST dataset to recognize handwritten digits (0-9). The model is built using TensorFlow and Keras, achieving high accuracy in classifying digits.
-
-## Project Overview
 
 - **Objective**: Train a neural network to classify handwritten digits from the MNIST dataset.
 - **Dataset**: MNIST dataset containing 60,000 training images and 10,000 test images of handwritten digits (28x28 pixels).
